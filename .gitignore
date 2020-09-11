@@ -1,0 +1,8 @@
+# IDEs and editors
+/.idea
+*.iml
+/target
+
+#Logs
+app.log
+LOG_FILE_IS_UNDEFINED
